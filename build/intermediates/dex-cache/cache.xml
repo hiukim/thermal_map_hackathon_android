@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hiukim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-83ad41a4caa8f8289f48154f53846cfbe54b1093.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/classes-d896dd6f0d5c9effb6394332628b076390fa9d5e.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.3.1-f7c6d4df97ba766b2849c0f748df6bc911914547.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-851c8be24cf4a00498b196b22661c3b71b6993cb.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.3.1-74b1ff539d950bb2a5295cb79fa833d890d0a456.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-aa7cab2fcf8d7aa843e516f1c51abde4bf778521.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11-791a4dd0d2a1f3c1be2c8af8abfdc374f48aefc8.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/libs/firebase-client-android-2.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="20dc1f59cd78027e61dc15807497c060be5e134e">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.4.1-40cf0afb99b724c9346817dcff02c1dc3f543271.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-5a95b77d8bf63401b9875f75ab6aca35d512b211.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/classes-de7eaade3af936f0bb9fe1a445204c42f83c4d9a.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/exploded-aar/flironesdk/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c89f82573cb34767f3279a02cb7b7996bfc76fd">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/classes-6df9d651a556c69ac864937cf8d7514e21ed3e92.jar" />
+    </item>
+    <item
+        jar="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-dfe3be6e12bd055c31e8e383c695ccf276d33a93.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,12 @@
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/classes/debug
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-83ad41a4caa8f8289f48154f53846cfbe54b1093.jar
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-aa7cab2fcf8d7aa843e516f1c51abde4bf778521.jar
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/tubesock-0.0.11-791a4dd0d2a1f3c1be2c8af8abfdc374f48aefc8.jar
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/classes-6df9d651a556c69ac864937cf8d7514e21ed3e92.jar
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.3.1-f7c6d4df97ba766b2849c0f748df6bc911914547.jar
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-dfe3be6e12bd055c31e8e383c695ccf276d33a93.jar
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-851c8be24cf4a00498b196b22661c3b71b6993cb.jar
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.3.1-74b1ff539d950bb2a5295cb79fa833d890d0a456.jar
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/classes-d896dd6f0d5c9effb6394332628b076390fa9d5e.jar
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-5a95b77d8bf63401b9875f75ab6aca35d512b211.jar
+/Users/hiukim/Downloads/FLIROneSDKBundle/FLIRONEExampleApplication/app/build/intermediates/pre-dexed/debug/classes-de7eaade3af936f0bb9fe1a445204c42f83c4d9a.jar
